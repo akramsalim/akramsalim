@@ -4,7 +4,8 @@
 
 I build eyes for robots. My passion lies at the intersection of computer vision and robotics, creating perception systems that help machines understand and navigate the world.
 
-![Computer Vision and Robotics](https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20Robotics-blue)
+
+![Deep learning, Computer Vision and Robotics](https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20Robotics-blue)
 ![Python](https://img.shields.io/badge/Python-Expert-yellow)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Deep%20Learning-green)
 
