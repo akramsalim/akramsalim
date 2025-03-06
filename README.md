@@ -55,8 +55,5 @@ Brief description of another project i've worked on is coming so.
 - Twitter:
 - Email:
 
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 > "I don't build robots to do what humans can do; I build robots to see what humans cannot see."
