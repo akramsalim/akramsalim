@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, 👋
 
-## Computer Vision Engineer | Robotics Enthusiast | Perception Systems Developer
+## AI | Deep Learning | Computer Vision | Robotics Enthusiast | Perception Systems Developer
 
 I build eyes for robots. My passion lies at the intersection of computer vision and robotics, creating perception systems that help machines understand and navigate the world.
 
