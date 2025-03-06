@@ -28,18 +28,21 @@ A comprehensive computer vision perception system for detecting, tracking, and a
 - Segmentation capabilities
 - Sensor fusion and 3D visualization
 
-#### [Your Other Project]
-Brief description of another project you've worked on.
+###
+I have build a Hyperspectral denosing tool that i achived SOTA result on Hyperspectral dataset
+
+#### [ Other Project]
+Brief description of another project i've worked on is coming so.
 
 ### 🛠️ Tech Stack
 
 - **Languages**: Python, C++
 - **Computer Vision**: OpenCV, PyTorch, TensorFlow
 - **Robotics**: ROS, Gazebo
-- **ML/DL**: YOLO, SORT, MiDaS, Mask R-CNN
+- **ML/DL**: YOLO, SORT, MiDaS, Mask R-CNN, etc
 - **Tools**: Git, Docker, CUDA
 
-### 📚 Learning & Exploring
+### 📚 Diving
 
 - 3D reconstruction techniques
 - Real-time object pose estimation
@@ -48,9 +51,9 @@ Brief description of another project you've worked on.
 
 ### 📫 Let's Connect!
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
-- Twitter: [Your Twitter](https://twitter.com/yourusername)
-- Email: your.email@example.com
+- LinkedIn: 
+- Twitter:
+- Email:
 
 ### 📊 GitHub Stats
 
