@@ -30,7 +30,7 @@ A comprehensive computer vision perception system for detecting, tracking, and a
 - Sensor fusion and 3D visualization
 
 ### hyperspectral-denoising
-I have build a Hyperspectral denosing tool that i achived SOTA result on Hyperspectral dataset
+I have built a Hyperspectral denosing tool that achieved SOTA result on Hyperspectral dataset
 
 #### [ Other Project]
 Brief description of another project i've worked on is coming so.
